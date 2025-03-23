@@ -1,7 +1,9 @@
+package Stack_Queue_Deque;
+
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
+public class Baekjoon12789 {
 
     /*
      * 1. 총 인원 수와 현재 줄에 서 있는 사람들의 번호를 입력받는다.
